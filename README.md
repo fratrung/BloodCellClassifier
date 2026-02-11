@@ -1,8 +1,8 @@
 # Blood Cell Classifier
 
-**Author:** [Your Name]  
+**Author:** Francesco Trungadi
 **Course:** Artificial Intelligence (Master’s Level)  
-**Date:** [Insert Date]  
+**Date:** 10/02/2025
 
 ---
 
